@@ -1,0 +1,18 @@
+maximum grass height : 10
+initial grass height : 1
+initial number of predators : 10
+initial number of prey : 10
+maximum predator age : 1000
+maximum prey age : 500
+predator age of maturity : 100
+prey age of maturity : 50
+predator energy capacity : 200
+prey energy capacity : 50
+predator birth cost : 50
+prey birth cost : 15
+predator metabolism : 1
+prey metabolism : 2
+predator initial energy : 100
+prey initial energy : 30
+predator maximum number of children : 2
+prey maximum number of children : 3
